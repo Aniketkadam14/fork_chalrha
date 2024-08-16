@@ -84,3 +84,5 @@ Button(root,text="Set Alarm",font=("Helvetica 15"),command=Threading).pack(pady=
 
 # Execute Tkinter
 root.mainloop()
+
+print("Maine ki hai mwhnat bhai bata doo kal dekhrha stree 2")
